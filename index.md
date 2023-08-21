@@ -6,3 +6,7 @@
 ~~~ SQL
 Select * from Generative_AI_ethics
 ~~~
+- [ ] Create list of decisions made by Generative AI app
+- [ ] Create list of executives who have approved the list
+- [ ] Create list of risk factor spelled out
+- [ ] Create what action are taken to prevent actions which could impact human life
