@@ -3,3 +3,6 @@
 #### As a general practice all professionals involved in development, implementation or consumption of these new 
 #### generative AI applications, should follow code of ethics
 ![Images of ethical use of generative AI](https://octodex.github.com/images/yaktocat.png)
+~~~ SQL
+Select * from Generative_AI_ethics
+~~~
